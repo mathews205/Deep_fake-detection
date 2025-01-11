@@ -47,7 +47,8 @@ deepfake_detection/
 ├── requirements.txt                 # Python dependencies
 └── README.md                        # Documentation of the project
 
-etup Instructions
+setup Instructions
+
 1. Prerequisites
 Ensure you have Python 3.12.6 installed.
 2. Environment Setup
